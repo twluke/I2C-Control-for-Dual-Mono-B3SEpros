@@ -14,4 +14,4 @@ Short the DAC_ADDR(11) and DVCC(12) of the second DAC to set a different address
 
 The analog output from the main DAC (address 0x48) is used for the left channel and the other from the second DAC (address 0x49) for the right channel.
 
-Then power on and confirmm that you get the right sound.
+Then power up and confirmm that you get the right sound.
